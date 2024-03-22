@@ -48,7 +48,7 @@ Also, if you wanna know my work so far as a programmer:
 <b>Languages:</b> C, C++, Java<br>
 <b>Operating Systems:</b> Linux, Windows, macOS<br>
 <b>Databases:</b> MySQL, MongoDB, PostgreSQL<br>
-<b>Web Technologies:</b> HTML5, CSS3, PHP, Bootstrap, Rest API, Apache Kafka<br>
-<b>Frameworks:</b> React.js,Angular<br>
+<b>Web Technologies:</b> HTML5, CSS3, Bootstrap, Rest API, Apache Kafka<br>
+<b>Frameworks:</b> React.js,Angular, Sspring boot<br>
 <b>Deployment:</b> Docker, Kubernetes<br>
 <b>Tools:</b> Git, Eclipse, Visual Studio Code, JIRA, Postman, Junit.<br>
