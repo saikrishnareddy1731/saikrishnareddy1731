@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saikrishnaragula23@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1TRSqJ_29BBXpAOiwEfvhFNjWPFEUKL0b/view?usp=sharing](https://drive.google.com/file/d/1TRSqJ_29BBXpAOiwEfvhFNjWPFEUKL0b/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1Wa9RWd89c9vBsSVpQ0cGauhh-68LS2FM))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sIuHMAR6FYVTiz2ej6rqEbYLX7ZVm2ta/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
