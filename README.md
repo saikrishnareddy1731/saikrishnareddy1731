@@ -32,7 +32,6 @@ I'm a passionate **Software Engineer** with **3+ years of experience** building 
 
 - 📍 **Phoenix, Arizona**
 - 📧 **Email:** saikrishnaragula23@gmail.com
-- 📱 **Phone:** +1 (856) 739-7292
 - 💼 **LinkedIn:** [linkedin.com/in/saikrishnareddyragula](https://www.linkedin.com/in/saikrishnareddyragula)
 - 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1V9hFvVP0gIVP42AkhpM_0y0hGpITXvZJ/view?usp=sharing)
 
